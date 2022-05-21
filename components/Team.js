@@ -1,7 +1,7 @@
 
 import TeamMember from './TeamMember'
 import OmerPic from '../components/assets/omerW.jpg'
-import OrPic from '../components/assets/Or S.jpg' 
+
 
 const DATA = [
   {
