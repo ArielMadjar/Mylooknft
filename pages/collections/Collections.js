@@ -55,7 +55,7 @@ const Collections = () => {
         <img
           className={style.bannerImage}
           //if banner image exists, show the banner image, otherwise show a placeholder.
-          src="https://wallpaper.dog/large/10734583.jpg"
+          src="https://media.vogue.fr/photos/5ff8385fe2b6fc6ab2b68f29/master/pass/TEMPORARYRESIDENCYAPARIS.jpg"
           alt="banner"
         />
       </div>
