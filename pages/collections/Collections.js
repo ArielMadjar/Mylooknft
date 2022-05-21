@@ -38,7 +38,7 @@ const Collections = () => {
     {
       name: 'Louis Vuitton',
       image:
-        'https://www.luxebytrendy.com/wp-content/uploads/2012/09/Louis-Vuitton3.jpg',
+        'https://static.purseblog.com/images/2022/02/LV-Mens-SS22.jpg',
       
     },
     {
