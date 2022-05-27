@@ -61,8 +61,12 @@ export default function Home() {
         <>
           <Header />
           <Hero />
-          <Team />
-          <Features/>
+          <div id="team" >
+            <Team />
+          </div>
+          <div id="features">
+            <Features/>
+          </div>
           <Create/>
         </>
       ) : (

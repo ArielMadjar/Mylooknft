@@ -43,8 +43,12 @@ const Header = () => {
         <Link href="/collections/Collections"> 
           <div className={style.headerItem}> Collections </div>
         </Link>
-        <div className={style.headerItem}> Team </div>
-        <div className={style.headerItem}> Features </div>
+        <Link href="#team">
+          <div className={style.headerItem}> Team </div>
+          </Link>
+        <Link href="#features">
+          <div className={style.headerItem}> Features </div>
+        </Link>
         <div className={style.headerItem}> Stats </div>
         <div className={style.headerIcon}>
           <CgProfile />
