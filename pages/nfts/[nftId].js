@@ -34,7 +34,7 @@ const Nft = () => {
       provider.getSigner(),
       
     )
-    return sdk.getNFTModule('0xDB74f97561646878da79EB35a260E28B45f0512e')
+    return sdk.getNFTModule('0x28DE8C5cAb45ED62F79e2312C1fA20E25Da20D65')
   }, [provider])
 
   // get all NFTs in the collection
@@ -58,7 +58,7 @@ const Nft = () => {
     )
 
     return sdk.getMarketplaceModule(
-      '0x47A6cD527E8142E011378c42f510bfdeDB64Ba3E'
+      '0x47B9Bb57a205117dD86bc8a688E3bBb4359FD16d'
     )
   }, [provider])
 

@@ -26,7 +26,7 @@ const Collections = () => {
     {
       
       name: (
-        <Link href="/collections/0xDB74f97561646878da79EB35a260E28B45f0512e">
+        <Link href="/collections/0x28DE8C5cAb45ED62F79e2312C1fA20E25Da20D65">
           Dior
         </Link>
       ),
