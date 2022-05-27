@@ -58,7 +58,7 @@ const Nft = () => {
     )
 
     return sdk.getMarketplaceModule(
-      '0x47B9Bb57a205117dD86bc8a688E3bBb4359FD16d'
+      '0x21AE4F5d0Caabe7e489b867fd3BB64390515Dc3b'
     )
   }, [provider])
 

@@ -74,7 +74,7 @@ const style = {
         'https://eth-rinkeby.alchemyapi.io/v2/9k60GOfSzn51dzczmP5iTomEpjr6QaMj'
       )
       return sdk.getMarketplaceModule(
-        '0x47B9Bb57a205117dD86bc8a688E3bBb4359FD16d'
+        '0x21AE4F5d0Caabe7e489b867fd3BB64390515Dc3b'
       )
     }, [provider])
   
